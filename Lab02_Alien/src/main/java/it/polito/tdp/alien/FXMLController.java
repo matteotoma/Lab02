@@ -1,6 +1,7 @@
 package it.polito.tdp.alien;
 
 import java.net.URL;
+
 import java.util.ResourceBundle;
 
 import it.polito.tdp.alien.model.AlienDictionary;

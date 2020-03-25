@@ -2,10 +2,10 @@ package it.polito.tdp.alien;
 
 import javafx.application.Application;
 
+
 import static javafx.application.Application.launch;
 
 import it.polito.tdp.alien.model.AlienDictionary;
-import javafx.fxml.FXMLLoader;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
 import javafx.scene.Scene;
